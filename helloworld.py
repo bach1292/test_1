@@ -3,7 +3,7 @@ import random
 import datetime
 import os
 import sys
-size = [50,31]
+size = [50,30]
 bgColor = "Black"
 numberColor = "White"
 posLeft = -50
